@@ -1,4 +1,4 @@
-import { AccountBalance, AccountBalanceOutlined, AddShoppingCart, FavoriteBorderOutlined } from '@material-ui/icons';
+import { AccountBalance, AddShoppingCart, FavoriteBorderOutlined } from '@material-ui/icons';
 import React, { useState } from 'react';
 
 const Product = () => {
